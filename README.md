@@ -1,7 +1,5 @@
-# current-date-and-time-
-using c language 
-// C program to implement
-// the above approach
+// C program to implement current-date and time 
+
 #include <stdio.h>
 #include <time.h>
 #define SIZE 256

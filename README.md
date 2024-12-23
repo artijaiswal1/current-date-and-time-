@@ -1,10 +1,13 @@
 // C program to implement current-date and time 
 
 #include <stdio.h>
+
 #include <time.h>
+
 #define SIZE 256
 
 // Driver code
+
 int main(void)
 {
 	char buffer[SIZE];

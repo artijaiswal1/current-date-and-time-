@@ -9,9 +9,12 @@
 // Driver code
 
 int main(void)
+
 {
 	char buffer[SIZE];
+ 
 	time_t curtime;
+ 
 	struct tm* loctime;
 
 	// Get the current time.

@@ -11,7 +11,8 @@
 int main(void)
 
 {
-	char buffer[SIZE];
+	
+        char buffer[SIZE];
  
 	time_t curtime;
  
